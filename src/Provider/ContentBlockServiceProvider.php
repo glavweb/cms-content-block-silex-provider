@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the GLAVWEB.cms Content Block Silex Provider package.
+ * This file is part of the GLAVWEB.cms SilexCmsContentBlock package.
  *
  * (c) Andrey Nilov <nilov@glavweb.ru>
  *
@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Glavweb\CmsContentBlockSilexProvider;
+namespace Glavweb\SilexCmsContentBlock\Provider;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
@@ -18,7 +18,7 @@ use Glavweb\CmsContentBlock\ContentBlockService;
 /**
  * ContentBlockServiceProvider
  *
- * @package Glavweb\CmsContentBlockSilexProvider
+ * @package Glavweb\SilexCmsContentBlock
  * @author Andrey Nilov <nilov@glavweb.ru>
  */
 class ContentBlockServiceProvider implements ServiceProviderInterface
