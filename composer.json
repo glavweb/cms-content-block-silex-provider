@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.5.9",
         "pimple/pimple": "~3.0",
-        "glavweb/cms-content-block": "~0.1"
+        "glavweb/cms-content-block": "~0.2"
     },
     "autoload": {
         "psr-4": { "Glavweb\\SilexCmsContentBlock\\": "src/" }

@@ -13,7 +13,7 @@ namespace Glavweb\SilexCmsContentBlock\Provider;
 
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
-use Glavweb\CmsContentBlock\ContentBlockService;
+use Glavweb\CmsContentBlock\Service\ContentBlockService;
 
 /**
  * ContentBlockServiceProvider
